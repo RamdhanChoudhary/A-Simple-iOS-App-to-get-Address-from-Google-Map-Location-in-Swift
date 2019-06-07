@@ -11,7 +11,7 @@ target 'Simple GoogleMap' do
   pod 'GoogleMaps'
 end
 ```
-so you must open terminl, change path to poject 
+so you must open Terminal on your mac machine, change path to poject 
 
 ```python
 Cd <project path>
